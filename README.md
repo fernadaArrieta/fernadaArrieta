@@ -36,7 +36,6 @@
 
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count 👽 </b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{fernadaArrieta}/count.svg" /></p> 
-<br>
+  <p><b>Visitors Count 👽</b></p>
+  <img src="https://komarev.com/ghpvc/?username=fernadaArrieta&color=blue" alt="fernadaArrieta" />
 </div>
