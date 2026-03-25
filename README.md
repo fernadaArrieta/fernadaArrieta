@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hola, Soy Fernanda!! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
-### :smiley_cat: Soy Desarrolladora Full-Stack y estudiante de Software
+### :smiley_cat: Soy Desarrolladora Full-Stack y estudiante en la carrera de Desarrollo de Software
 
 ###Estoy en busqueda de oportunidades laborales que se adapten a mi perfil 😄
 
